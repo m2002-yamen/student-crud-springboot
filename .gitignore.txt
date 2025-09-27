@@ -1,0 +1,9 @@
+target/
+nbproject/private/
+nbactions.xml
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
