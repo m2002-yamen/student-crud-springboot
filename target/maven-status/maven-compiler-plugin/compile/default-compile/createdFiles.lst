@@ -1,7 +1,0 @@
-com\example\studentapp\repository\StudentRepository.class
-com\example\studentapp\controller\StudentController.class
-com\example\studentapp\service\impl\StudentServiceImpl.class
-com\example\studentapp\StudentCrudApplication.class
-com\example\studentapp\service\StudentService.class
-com\example\studentapp\advice\GlobalExceptionHandler.class
-com\example\studentapp\entity\Student.class
